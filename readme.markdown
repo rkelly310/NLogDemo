@@ -90,7 +90,7 @@ Simply clone the repo
    git clone https://github.com/rkelly310/NLogDemo.git
    ```
 <!-- Instructions -->
-## Installation
+## Instructions
 ### Task 1: Creating a simple log file and targetting the console
 
 ### Task 2: Creating a JSON log file and targetting a .txt filepath
