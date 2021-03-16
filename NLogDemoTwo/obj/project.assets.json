@@ -114,11 +114,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ryan.kelly\\source\\repos\\NLogDemoApp\\NLogDemoTwo\\NLogDemoTwo\\NLogDemoTwo.csproj",
+      "projectUniqueName": "C:\\Users\\ryan.kelly\\source\\repos\\NLogDemoApp\\NLogDemoOne\\NLogDemoTwo\\NLogDemoTwo.csproj",
       "projectName": "NLogDemoTwo",
-      "projectPath": "C:\\Users\\ryan.kelly\\source\\repos\\NLogDemoApp\\NLogDemoTwo\\NLogDemoTwo\\NLogDemoTwo.csproj",
+      "projectPath": "C:\\Users\\ryan.kelly\\source\\repos\\NLogDemoApp\\NLogDemoOne\\NLogDemoTwo\\NLogDemoTwo.csproj",
       "packagesPath": "C:\\Users\\ryan.kelly\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ryan.kelly\\source\\repos\\NLogDemoApp\\NLogDemoTwo\\NLogDemoTwo\\obj\\",
+      "outputPath": "C:\\Users\\ryan.kelly\\source\\repos\\NLogDemoApp\\NLogDemoOne\\NLogDemoTwo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
