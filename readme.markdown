@@ -2,6 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/rkelly310/NLogDemoOne/">
+    <img src="images/logging-picture.png" alt="Logo">
   </a>
 
   <h2 align="center">Writing, Configuring and Locating Log Files using NLog</h2>
