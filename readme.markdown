@@ -1,7 +1,7 @@
 ﻿<!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/rkelly310/NLogDemoOne/">
+  <a href="https://github.com/rkelly310/NLogDemo/">
     <img src="images/logging-picture.png" alt="Logo">
   </a>
 
@@ -10,14 +10,14 @@
   <p align="center">
     A demo lab instructing users on how to configure structured and unstructured log files, set targets and write logging syntax using dotNET Core and the NLog Framework.
     <br />
-    <a href="https://github.com/rkelly310/NLogDemoOne"><strong>Explore the docs �</strong></a>
+    <a href="https://github.com/rkelly310/NLogDemo"><strong>Explore the docs �</strong></a>
     <br />
     <br />
-    <a href="https://github.com/rkelly310/NLogDemoOne">View Demo</a>
+    <a href="https://github.com/rkelly310/NLogDemo">View Demo</a>
     �
-    <a href="https://github.com/rkelly310/NLogDemoOne/issues">Report Bug</a>
+    <a href="https://github.com/rkelly310/NLogDemo/issues">Report Bug</a>
     �
-    <a href="https://github.com/rkelly310/NLogDemoOne/issues">Request Feature</a>
+    <a href="https://github.com/rkelly310/NLogDemo/issues">Request Feature</a>
   </p>
 </p>
 
@@ -86,7 +86,7 @@ None, other than an installation of Visual Studio Community or Visual Studio Cod
 
 Simply clone the repo
    ```sh
-   git clone https://github.com/rkelly310/NLogDemoOne.git
+   git clone https://github.com/rkelly310/NLogDemo.git
    ```
 <!-- Instructions -->
 ### Task 1: Creating a simple log file and targetting the console
@@ -101,7 +101,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Project Link: [https://github.com/rkelly310/NLogDemoOne](https://github.com/rkelly310/NLogDemoOne)
+Project Link: [https://github.com/rkelly310/NLogDemo](https://github.com/rkelly310/NLogDemo)
 
 
 
