@@ -4,7 +4,7 @@
   <a href="https://github.com/rkelly310/NLogDemoOne/">
   </a>
 
-  <h3 align="center">Writing, Configuring and Locating Log Files using NLog</h3>
+  <h2 align="center">Writing, Configuring and Locating Log Files using NLog</h2>
 
   <p align="center">
     A demo lab instructing users on how to configure structured and unstructured log files, set targets and write logging syntax using dotNET Core and the NLog Framework.
@@ -88,9 +88,9 @@ Simply clone the repo
    git clone https://github.com/rkelly310/NLogDemoOne.git
    ```
 <!-- Instructions -->
-## Task 1: Creating a simple log file and targetting the console
+### Task 1: Creating a simple log file and targetting the console
 
-## Task 2: Creating a JSON log file and targetting a .txt filepath
+### Task 2: Creating a JSON log file and targetting a .txt filepath
 
 <!-- LICENSE -->
 ## License
