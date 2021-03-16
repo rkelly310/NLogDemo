@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZK8Yo1bILmE6Pn8zvfFMbc32plgfQJI3L/OnDM1EmsNOD1lLNI0xAX7zMn3958N0LejzoJIitm267lZzTOrNCQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ryan.kelly\\source\\repos\\NLogDemoApp\\NLogDemoOne\\NLogDemoOne\\NLogDemoOne.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ryan.kelly\\.nuget\\packages\\nlog\\4.7.8\\nlog.4.7.8.nupkg.sha512",
+    "C:\\Users\\ryan.kelly\\.nuget\\packages\\nlog.config\\4.7.8\\nlog.config.4.7.8.nupkg.sha512",
+    "C:\\Users\\ryan.kelly\\.nuget\\packages\\nlog.schema\\4.7.8\\nlog.schema.4.7.8.nupkg.sha512"
+  ],
+  "logs": []
+}

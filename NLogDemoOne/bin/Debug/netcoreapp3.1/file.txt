@@ -1,0 +1,2 @@
+2021-03-16 11:25:06.6569|DEBUG|NLogDemoOne.NLogTestOne|This Is An Debug Message!
+2021-03-16 11:25:35.0628|ERROR|NLogDemoOne.NLogTestOne|This Is An Error Message!
