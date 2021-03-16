@@ -38,10 +38,11 @@
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
+        </ul>
+        <li><a href="#instructions">Instructions</a></li>
       </ul>
     </li>
 <!--
-    <li><a href="#instructions">Instructions</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
 -->
@@ -89,6 +90,7 @@ Simply clone the repo
    git clone https://github.com/rkelly310/NLogDemo.git
    ```
 <!-- Instructions -->
+## Installation
 ### Task 1: Creating a simple log file and targetting the console
 
 ### Task 2: Creating a JSON log file and targetting a .txt filepath
